@@ -5,4 +5,4 @@ https://drive.google.com/file/d/1-FxmXV11uqvSC2StU3D16ILvFqsQQ3td/view?usp=drive
 
 
 play online:
-https://game-of-life.xmshind.repl.co
+https://xm-game-of-life.vercel.app/
